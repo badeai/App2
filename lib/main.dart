@@ -14,19 +14,19 @@ void main() {
           decoration: const BoxDecoration(
             color: Colors.red,
           ),
-          child: Text('One'),
+          child: const Text('One'),
         ),
         Container(
           decoration: const BoxDecoration(
             color: Colors.green,
           ),
-          child: Text('Two'),
+          child: const Text('Two'),
         ),
         Container(
           decoration: const BoxDecoration(
             color: Colors.blue,
           ),
-          child: Text('Three'),
+          child: const Text('Three'),
         ),
       ],
     ),
